@@ -1,4 +1,4 @@
 image:
   repository: phico/frontend
   tag: "1.1"
-replicaCount: 3
+replicaCount: 4
